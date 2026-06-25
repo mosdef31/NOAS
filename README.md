@@ -1,4 +1,4 @@
-# Air Spawn — Nuclear Option mod
+# Nuclear Option Air Spawn Mod
 
 Spawns your aircraft in the air at a configurable altitude and airspeed after you pick your loadout, so you can jump straight into testing without repeating the takeoff every time.  AI units and mission-placed aircraft are never affected.
 
