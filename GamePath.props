@@ -1,0 +1,18 @@
+<Project>
+
+  <!--
+    Set GameDir to the root of your Nuclear Option installation.
+    The Managed folder and BepInEx directories are derived from this.
+
+    Examples
+      Steam (default):  C:\Program Files (x86)\Steam\steamapps\common\Nuclear Option
+      Custom:           D:\Games\NuclearOption
+  -->
+  <PropertyGroup>
+    <GameDir>C:\Program Files (x86)\Steam\steamapps\common\Nuclear Option</GameDir>
+    <ManagedDir>$(GameDir)\NuclearOption_Data\Managed</ManagedDir>
+    <BepInExCoreDir>$(GameDir)\BepInEx\core</BepInExCoreDir>
+    <BepInExPluginsDir>$(GameDir)\BepInEx\plugins</BepInExPluginsDir>
+  </PropertyGroup>
+
+</Project>
